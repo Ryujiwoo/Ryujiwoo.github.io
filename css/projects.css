@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'GS-B';
+  src: url("../assets/fonts/GmarketSansTTFBold.ttf");
+}
+
+@font-face {
+  font-family: 'GS-M';
+  src: url("../assets/fonts/GmarketSansTTFMedium.ttf");
+}
+
+.font-gs-b {
+  font-family: "GS-B";
+}
+
+.font-gs-m {
+  font-family: "GS-M";
+}
+
+body {
+  background-color: rgb(244, 239, 250);
+}
